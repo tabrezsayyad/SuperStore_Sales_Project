@@ -1,1 +1,1 @@
-# SuperStore_Sales_Project
+# SuperStore_Sales_Dashboard
